@@ -1,0 +1,43 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-decoration: center;
+    background-color: black;
+}
+
+.hide {
+    display: none;
+}
+
+#main-container {
+    position: absolute;
+    top: 100px;
+    right: 70px;
+    color: white;
+}
+h1 {
+    font-size: 33px;
+    margin-right: -25px;
+}
+h3 {
+    font-size: 15px;
+    margin-left: 50px;
+}
+#god-btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+    right: -80px;
+    background-color: white;
+}
+#god-answer{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    left: 70px;
+}
